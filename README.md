@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Farias</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h5 align="center">Com mais de 3 anos de experiência em tecnologia da informação, sou um profissional apaixonado por desenvolvimento e operações (DevOps) e engenharia de confiabilidade de serviços (SRE). Minhas habilidades incluem Python, Javascript, AWS, Azure, Zabbix, Linux, redes e muito mais. Eu acredito que a tecnologia pode melhorar a vida das pessoas e estou sempre buscando novas formas de aplicar meus conhecimentos para resolver problemas reais.</h5>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lvcasfarias" alt="lvcasfarias" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lvcasfarias" alt="lvcasfarias" /></a> </p>
 
 - 🔭 I’m currently working on **Unirede**
 
