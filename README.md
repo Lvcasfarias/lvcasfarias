@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking for help with **Grafana Lib**
 
-- 👨‍💻 All of my projects are available at [Working on it](Working on it)
 
 - 💬 Ask me about **Monitoring (Zabbix) , programming (Javascript | Python | Go), Cloud (Azure | AWS), Sre, Devops...**
 
